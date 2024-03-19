@@ -1,0 +1,16 @@
+form {
+  
+}
+
+form button {
+  display: flex;
+  flex-direction: column;
+  
+  background-color: white;
+  border: none;
+}
+
+button:hover {
+  color: white;
+  background-color: #1b4de4;
+}
